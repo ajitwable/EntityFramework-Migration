@@ -21,4 +21,5 @@ namespace CodeFirstApproach.Context
         public DbSet<UserWalletModel> Walet { get; set; }
         public DbSet<InvoiceModel> Invoice { get; set; }
     }
+
 }
